@@ -1,0 +1,4 @@
+1 - python manage.py startapp snippets
+2 - python manage.py makemigrations snippets
+    python manage.py migrate
+3 - python manage.py shell
